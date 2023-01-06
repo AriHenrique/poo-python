@@ -27,3 +27,6 @@ class ContaCorrente:
 
     def teste(self):
         print('aqui')
+
+    def teste2(self):
+        print('teste2')
