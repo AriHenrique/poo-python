@@ -29,4 +29,4 @@ class ContaCorrente:
         print('aqui')
 
     def teste2(self):
-        print('teste2')
+        print('new')
