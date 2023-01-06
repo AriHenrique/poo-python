@@ -25,3 +25,5 @@ class ContaCorrente:
         self.saque(valor)
         destino.deposita(valor)
 
+    def teste(self):
+        print('aqui')
