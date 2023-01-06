@@ -30,3 +30,6 @@ class ContaCorrente:
 
     def teste2(self):
         print('new')
+
+    def teste3(self):
+        print('3')
