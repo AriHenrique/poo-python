@@ -24,12 +24,3 @@ class ContaCorrente:
     def transferir(self, valor: float, destino):
         self.saque(valor)
         destino.deposita(valor)
-
-    def teste(self):
-        print('aqui')
-
-    def teste2(self):
-        print('new')
-
-    def teste3(self):
-        print('3')
